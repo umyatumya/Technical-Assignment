@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalWebAPI", "TechnicalWebAPI\TechnicalWebAPI.csproj", "{4E78E2A6-8A26-4887-9170-32B333F1FD71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalMVCApp", "TechnicalMVCApp\TechnicalMVCApp.csproj", "{DB11ACA2-C5FB-40AA-82DD-12D9392ED98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E78E2A6-8A26-4887-9170-32B333F1FD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E78E2A6-8A26-4887-9170-32B333F1FD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E78E2A6-8A26-4887-9170-32B333F1FD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E78E2A6-8A26-4887-9170-32B333F1FD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB11ACA2-C5FB-40AA-82DD-12D9392ED98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB11ACA2-C5FB-40AA-82DD-12D9392ED98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB11ACA2-C5FB-40AA-82DD-12D9392ED98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB11ACA2-C5FB-40AA-82DD-12D9392ED98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
